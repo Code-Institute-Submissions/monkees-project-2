@@ -57,3 +57,6 @@ Will follow best practice in usability. Nielsen's 10 Heuristics.
 
 ## 5. Surface
 ### Branding/ Typography/ Look and Feel
+The branding, colours and typography should be reminiscent of the 1960s and the cheesy Monkees styling and look. Here is a selection of imagery presented as a moodboard to get some inspiration for colours and typography:
+
+![Moodboard](wireframes/monkees-moodboard.png)
