@@ -29,7 +29,7 @@ The business objectives are to get more gigs and fans. The user needs are for fa
 - Users should be able to listen to clips (audio player).
 - Users should be able to contact the band to arrange a gig (contact form).
 - Users should be able to view images and text about the band (gallery/history)
-- Not in scope: events/concerts section not requested
+- Not in scope: events/concerts section not requested. May add sidebar to allow option to add events if time permits
 
 ### Content Requirements
 - Band Photos
@@ -47,13 +47,19 @@ Will follow best practice in usability. Nielsen's 10 Heuristics.
 - Home Page (video, band image)
 - Listen Page (listen to clips)
 - Contact Us Page (contact form)
-- About Us Page (images, history of band)
+- About Us Page (images, history of band), with sidebar
 - CTA (Hire us for your event)
+- Common sidebar could contain the CTA and other useful links eg. News/Events
 
 
 ## 4. Skeleton
 ### Wireframes
+
+#### Desktop
 ![Wireframe](wireframes/wireframe.png)
+
+#### Mobile
+TODO
 
 ## 5. Surface
 ### Branding/ Typography/ Look and Feel
