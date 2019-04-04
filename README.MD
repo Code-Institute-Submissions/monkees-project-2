@@ -83,4 +83,5 @@ The branding, colours and typography should be appealing and fun, but profession
 
 ####  HTML Mockup
 
-https://petrastone.github.io/monkees-project/index.html
+<a href="https://petrastone.github.io/monkees-project/index.html" target="_blank">HTML mockup on GitHub Pages</a>
+
