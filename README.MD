@@ -72,6 +72,8 @@ Will follow best practice in usability. Nielsen's 10 Heuristics.
 #### Desktop
 ![Wireframe](wireframes/wireframe2.png)
 
+<a href="https://docs.google.com/presentation/d/13nCieZpjuWTLhjM31q_h5lXcQlotIoK_rq9Ko7ksl4k/edit?usp=sharing" target="_blank">Wireframes on Google Slides</a>
+
 #### Mobile
 TODO
 
