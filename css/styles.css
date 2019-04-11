@@ -154,7 +154,8 @@ body {
 }
 
 .facts-timeline li::before {
-    color: #bf7fbf;  
+    color: #bf7fbf; 
+    color: #FFF; 
     content: "\2022"; 
     font-size: 3em; 
     position: relative;
