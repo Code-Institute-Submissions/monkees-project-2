@@ -103,6 +103,7 @@ body {
     background-color: #ffc107;
     background-color: white;
     border-bottom: solid 8px #ffc107;
+    border-bottom: solid 8px #EEE;
 }
 
 .fact-alternate {
@@ -111,6 +112,7 @@ body {
     background-color: #cb98cb;
     border-bottom: solid 8px #cb98cb;
     background-color: white;
+    border-bottom: solid 8px #EEE;
 }
 
 .facts-timeline {
