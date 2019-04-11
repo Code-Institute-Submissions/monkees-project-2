@@ -58,7 +58,7 @@ body {
 }
 
 .footer {
-    background-color: #343a40;
+    box-shadow: inset 1px 4px 9px -6px #333;
     background-color: #888888;
     padding-top: 1em;
     text-transform: uppercase;
