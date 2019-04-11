@@ -2,17 +2,10 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-/*
-h1, h2, h3, h4 {
-    font-family: 'Luckiest Guy', cursive;
+/* Workaround for horizontal scrollbar */
+.container-fluid.p-0 {
+    overflow: hidden;
 }
-*/
-
-/* remove body margins 
-.container-fluid {
-    padding: 0;
-} */
-
 .navbar {
     text-transform: uppercase;
     border-bottom: solid 1px #777;
@@ -60,9 +53,31 @@ h1, h2, h3, h4 {
     border: solid 1px #333;
     border-top: none;
     border-bottom: none;
-    /*filter: blur(20px);*/
     box-shadow: inset 0px 0px 40px 40px #DBA632;
     box-shadow: 0px 0px 3px 0px #333;
+}
+
+.footer {
+    background-color: #343a40;
+    padding-top: 1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.footer-navigation a {
+    color: #CCC;
+}
+
+.social-links {
+    font-size: 32px;
+    margin-top: -.3em;
+}
+
+.social-links a { 
+    padding-right: .3em;
+    color: #FFF;
 }
 
 /* Smartphones */
