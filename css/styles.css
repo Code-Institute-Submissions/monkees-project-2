@@ -81,6 +81,50 @@ body {
     color: #FFF;
 }
 
+
+/* Sidebar colour */
+.facts-body {
+    background-color: #888888;
+    background-color: #EEE;
+    background-color: #eafeea;
+}
+
+.fact-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.fact-list li {
+    padding: 2em 4em 4em 4em;
+}
+
+.fact {
+    background-color: white;
+}
+
+.fact-alternate {
+    background-color: #333;
+    background-color: #ffc107;
+}
+
+.facts-timeline {
+    padding: 2em;
+}
+
+.fact-pic {
+    display: block;
+    border: solid 1px #EEE;
+    text-align: center;
+    background-color: white;
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+.fact-pic img {
+    max-width: 100%;
+}
+
 /* Smartphones */
 @media (min-width: 320px) and (max-width: 480px) {
   
