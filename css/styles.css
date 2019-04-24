@@ -175,6 +175,11 @@ body {
     font-style: italic;
 }
 
+.form-group.required label:after {
+    content:"*";
+    color:red;
+  }
+
 /* Smartphones */
 @media (min-width: 320px) and (max-width: 480px) {
   
