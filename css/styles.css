@@ -169,6 +169,12 @@ body {
     margin-top: -2.3em;
 }
 
+.legal {
+    text-transform: none;
+    letter-spacing: normal;
+    font-style: italic;
+}
+
 /* Smartphones */
 @media (min-width: 320px) and (max-width: 480px) {
   

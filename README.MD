@@ -52,6 +52,8 @@ The business objectives are to educate and publicise feral pigeon welfare issues
 Facts info collated from:
 - https://www.discoverwildlife.com/animal-facts/birds/feral-pigeon-flying-rat-or-urban-hero/
 - https://www.pigeoncontrolresourcecentre.org/html/about-pigeons.html#about1
+- https://www.lrb.co.uk/v41/n07/jon-day/operation-columba
+- https://en.wikipedia.org/wiki/War_pigeon
 
 ## 3. Structure
 ### Interaction Design
