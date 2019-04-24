@@ -83,7 +83,7 @@ body {
 
 
 /* Sidebar colour */
-.facts-body {
+.facts-body, .sidebar {
     background-color: #888888;
     background-color: #EEE;
     background-color: #eafeea;
