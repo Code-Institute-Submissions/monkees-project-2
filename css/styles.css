@@ -179,7 +179,13 @@ body {
     content:"*";
     color:red;
   }
-
+  
+  .page-header {
+      text-transform: uppercase;
+      margin-top: .5em;
+      color: #DBA632;
+      font-size: 28px;
+  }
 /* Smartphones */
 @media (min-width: 320px) and (max-width: 480px) {
   
