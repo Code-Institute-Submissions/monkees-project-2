@@ -124,12 +124,14 @@ body {
     border: solid 1px #EEE;
     text-align: center;
     background-color: white;
+    background-color: #333;
     margin-bottom: 2em;
     color: grey;
 }
 
 .fact-pic img {
     max-width: 100%;
+    max-height: 300px;
 }
 
 .fact h2, 
@@ -180,12 +182,21 @@ body {
     color:red;
   }
   
-  .page-header {
+.page-header {
       text-transform: uppercase;
       margin-top: .5em;
       color: #DBA632;
       font-size: 28px;
-  }
+}
+
+.facts-main {
+    background: white;
+}
+
+.facts-main .page-header {
+    margin: 0;
+    padding: 15px;
+}
 /* Smartphones */
 @media (min-width: 320px) and (max-width: 480px) {
   
