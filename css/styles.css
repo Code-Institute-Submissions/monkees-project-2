@@ -2,6 +2,10 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+img {
+    max-width: 100%;
+}
+
 /* Workaround for horizontal scrollbar */
 .container-fluid.p-0 {
     overflow: hidden;
@@ -89,6 +93,10 @@ body {
     background-color: #eafeea;
 }
 
+.facts-main div {
+    background-color: white;
+}
+
 .fact-list {
     list-style-type: none;
     margin: 0;
@@ -97,6 +105,7 @@ body {
 
 .fact-list li {
     padding: 2em 4em 4em 4em;
+    padding: 2em 0 4em 0;
 }
 
 .fact {
@@ -194,8 +203,7 @@ body {
 }
 
 .facts-main .page-header {
-    margin: 0;
-    padding: 15px;
+    padding-bottom: .5rem;
 }
 
 .embed-container { 
