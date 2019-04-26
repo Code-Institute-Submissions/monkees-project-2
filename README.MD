@@ -58,6 +58,7 @@ Facts info collated from:
 ## 3. Structure
 ### Interaction Design
 Will follow best practice in usability. Nielsen's 10 Heuristics.
+Bootstrap 4 framework is used.
 
 ### Information Architecture
 - Home Page (intro, CTA to facts)
@@ -77,7 +78,7 @@ Will follow best practice in usability. Nielsen's 10 Heuristics.
 <a href="https://docs.google.com/presentation/d/13nCieZpjuWTLhjM31q_h5lXcQlotIoK_rq9Ko7ksl4k/edit?usp=sharing" target="_blank">Wireframes on Google Slides</a>
 
 #### Mobile
-TODO
+All pages will be responsive and mobile first.
 
 ## 5. Surface
 ### Branding/ Typography/ Look and Feel
